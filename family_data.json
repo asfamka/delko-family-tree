@@ -1,0 +1,108 @@
+{
+    "Fetitya": {
+        "description": "Always smiling",
+        "phone": "0911555555",
+        "photo": null,
+        "children": {}
+    },
+    "Oumer Mohammed": {
+        "description": "the first child of the family and the father of Ammar",
+        "phone": "may Allah grant him jenat-alferdews",
+        "photo": null,
+        "children": {
+            "Ammar": {
+                "description": "rtyu",
+                "phone": "0969461568",
+                "photo": "photos\\IMG_5606.JPG",
+                "children": {
+                    "nihad": {
+                        "description": "nm,",
+                        "phone": "jnm",
+                        "photo": null,
+                        "children": {}
+                    },
+                    "mubarek": {
+                        "description": "wejhk",
+                        "phone": "098760987",
+                        "photo": null,
+                        "children": {
+                            "sumeya": {
+                                "description": "rtyuio",
+                                "phone": "0987654987",
+                                "photo": null,
+                                "children": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "nihad": {
+                "description": "fgn",
+                "phone": "0987698765987",
+                "photo": null,
+                "children": {}
+            },
+            "ammar": {
+                "description": "ertyuil",
+                "phone": "fghjk",
+                "photo": "photos\\IMG_5606.JPG",
+                "children": {}
+            },
+            "rty": {
+                "description": "fg",
+                "phone": "",
+                "photo": null,
+                "children": {}
+            }
+        }
+    },
+    "Sefo Mohammed": {
+        "description": "the second child of the family and the mother of Lubaba",
+        "phone": "may Alah grant her Jenet-Alferdews",
+        "photo": null,
+        "children": {}
+    },
+    "Ayro Mohammed": {
+        "description": "the third child of the family and the mother of Nesra",
+        "phone": "0912854001",
+        "photo": null,
+        "children": {}
+    },
+    "Reshad Mohammed": {
+        "description": "The fourth child of the family and the father of Mekiya",
+        "phone": "0911154525",
+        "photo": null,
+        "children": {}
+    },
+    "Selima Mohammed": {
+        "description": "the fifth child of the family and the mother of Abdulkerim",
+        "phone": "0941496136",
+        "photo": null,
+        "children": {}
+    },
+    "Fetiya Mohammed": {
+        "description": "the sixth child of the family and mother of Mahir",
+        "phone": "0966046176",
+        "photo": "photos\\IMG_5644.JPG",
+        "children": {}
+    },
+    "Ali Mohammed": {
+        "description": "the seventh child of the family and the father of Imran",
+        "phone": "0911287428",
+        "photo": "photos\\IMG_5683.JPG",
+        "children": {
+            "Imran": {
+                "description": "the first child of ali",
+                "phone": "0977111157",
+                "photo": "photos\\IMG_5948.JPG",
+                "children": {}
+            }
+        }
+    },
+    "Neja Mohammed": {
+        "description": "the eihgth child of the family and the father of Sebrin",
+        "phone": "0911441196",
+        "photo": null,
+        "children": {}
+    }
+}
