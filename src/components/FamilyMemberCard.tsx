@@ -1,17 +1,6 @@
 import React, { useState } from 'react';
 import { FamilyMember } from '../types/family';
-import { 
-  User, 
-  Phone, 
-  Mail, 
-  Calendar, 
-  Edit3, 
-  Trash2, 
-  UserPlus, 
-  ChevronDown, 
-  ChevronRight,
-  Users
-} from 'lucide-react';
+import { User, Phone, Mail, Calendar, CreditCard as Edit3, Trash2, UserPlus, ChevronDown, ChevronRight, Users } from 'lucide-react';
 
 interface FamilyMemberCardProps {
   member: FamilyMember;
